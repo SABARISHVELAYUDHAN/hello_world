@@ -1,2 +1,3 @@
-# hello_world
-test project to learn github
+# MyFirstProject
+This is my first project to Github
+
