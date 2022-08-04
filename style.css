@@ -5,9 +5,15 @@ font-size: 35px;
 color: blueviolet;
 background-color: blanchedalmond;
 } 
-p   
+p
+{
+font-style: italic;
+font-weight: normal;
+}
+p1, p2
 {
 background-color: rgb(91, 174, 237);
+font-weight: bold;
 }
 label 
 {
